@@ -1,0 +1,6 @@
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://amitjangra94664:oqUbyAC95qd6XddW@demo.capvh.mongodb.net/sample_mflix?retryWrites=true&w=majority&appName=demo
+
